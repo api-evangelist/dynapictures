@@ -39,7 +39,6 @@ apis:
   - name: DynaPictures
     description: "Generate Hundreds of Personalized Images in Minutes"
     humanURL: https://dynapictures.com/docs/
-    baseURL: https://dynapictures.com/docs/
     tags:
       - Photography
     properties:
